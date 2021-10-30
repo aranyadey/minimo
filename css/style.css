@@ -203,3 +203,64 @@ header{
 }
 /*load end*/
 
+/*footer start*/
+ .footer {
+    
+}
+#w2 {
+    background-color: #f0f0f0;
+    padding: 40px 0;
+    display: inline-block;
+    width: 100%;
+    margin: 0 auto;
+}
+.terms {
+    float: left;
+    padding-left: 60px;
+}
+.terms ul {
+    overflow: hidden;
+}
+.terms ul li {
+    float: left;
+    list-style: none;
+}
+.terms ul li a {
+    padding: 0 13px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+    transition: .3s;
+}
+.social {
+    float: right;
+    padding-right: 60px;
+}
+.social_span {
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-weight: 400;
+    padding-right: 10px;
+}
+.social ul {
+    overflow: hidden;
+}
+.social ul li {
+    float: left;
+    list-style: none;
+}
+.social ul li a {
+    text-decoration: none;
+    padding: 0px 20px;
+    color: black;
+    cursor: pointer;
+    transition: .3s;
+}
+.social ul li a:hover {
+    color: #626262;
+}
+
+
+
+/*footer end*/
+
